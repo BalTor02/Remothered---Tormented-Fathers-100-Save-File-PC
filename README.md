@@ -25,3 +25,5 @@ Steps:-
 Keep a backup of your original save before replacing anything.
 
 If you already have your own progress, do not overwrite it without making a backup first.
+
+Also it could be possible that the collector achievement does not pop as the current save is progressed to the end fight.
