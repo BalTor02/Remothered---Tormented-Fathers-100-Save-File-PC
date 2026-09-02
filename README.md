@@ -5,7 +5,7 @@ Two Achievements can be missed:
 2. Mirror Breaker - Face and destroy your fears before they could come alive (Secret)
 
 Collector can be missed if you collect the documents/pictures and die before saving, so it is recommended to save at every instance.
-As for the Mirror Breaker, this achievement is bugged and can only be obtained if we play the sequence as per the script. That's where my save file saves you!
+As for the Mirror Breaker, this achievement is bugged and can only be obtained if we play the sequence as per the script. That's where my save file saves you! Enter the kid's room, look left, pick up bricks and start breaking the 7 mirror. DO NOT ENTER THE BATHROOM!
 
 Steps:-
 
